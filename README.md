@@ -58,13 +58,22 @@ listed_in : Genere
 description: The Summary description
 
 # Steps
+
 Importing Libraries
+
 Import Data
+
 Data Summary
+
 Data Visualization
+
 Data Cleaning ( EDA )
+
 Feature Selection
+
 Model Selection
+
 Hyperparameter Tuning
+
 Conclusion
 
